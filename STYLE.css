@@ -1,9 +1,13 @@
-body{
-    background-color:aqua;
+body
+{
+    text-align: center;
 }
-.line{
-    height:6px;
-    background-color: darkgreen;
-    width:70px;
-    margin:8px auto;
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
 }
