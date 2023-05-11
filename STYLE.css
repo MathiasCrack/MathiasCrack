@@ -1,0 +1,9 @@
+body{
+    background-color:aqua;
+}
+.line{
+    height:6px;
+    background-color: darkgreen;
+    width:70px;
+    margin:8px auto;
+}
